@@ -1,0 +1,5 @@
+.dsc-header-admin {
+  background-color: var(--bg-color-background);
+  color: var(--dsc-color-font-tertiary);
+  border-bottom: 1px solid #636363;
+}

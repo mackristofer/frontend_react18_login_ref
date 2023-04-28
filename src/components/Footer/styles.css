@@ -1,0 +1,11 @@
+.footer-container{
+    color: var(--dsc-color-card-border);
+    font-size: 12px;
+    text-align: center;
+    padding: 0 20px;
+    margin-top: 20px;
+    border-top: 1px solid var(--dsc-color-bg-tertiary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
